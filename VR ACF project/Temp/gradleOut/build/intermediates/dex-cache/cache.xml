@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\.android\build-cache\0d21cb184a447c2779f446e58dd49680173ecd39\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9dbb83f0fca00962e516ec6a098b69c7a07d0bf8">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_c40b277525cd95b2bba11dbb35a0af63ba90718f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\.android\build-cache\f31af5e7f67918355da4eca766f90c047e65d78c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1bdf1c662489164112ea64181ba0df59970899af">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_0d2e888d8a1a17a2b3334e4aabe0266b06b3a5ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\.android\build-cache\42d7e39016bc4796bbbdc3775de8ab7fe2c8b016\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_08b68ea5acfe1d7325032a899ee82f3b8a44eed7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\libs\libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\libprotobuf-java-nano_0c3cc69bfced39e9c24c2f54bdfb21ed82371d6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\.android\build-cache\1b27a8358a4b15a472a01600ff8d057777f8894d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="89a665d716c3d6b2922d194ecd5aec7ae45beb3f">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_f673115a04e27a4b5b23947e2e8c9d5534a05b1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7443096731009c4f1edb3f24ae945743c1ad23b7">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\unity-classes_b5042e792606b532da1f1ccc7ae71f9adff9230f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lawre\.android\build-cache\49e6faded6524724660dda20d5fb2e7a6c00b030\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0e73b79f6ee536f7b2d00367f0a55dce11a3a61d">
+        <dex dex="C:\Users\lawre\OneDrive\Documents\unity project vr\VR ACF project\VR ACF project\Temp\gradleOut\build\intermediates\pre-dexed\release\classes_5c6a3a0561bb6c3aa5c8e0ad088d982f7d0aecd0.jar" />
+    </item>
+
+</items>

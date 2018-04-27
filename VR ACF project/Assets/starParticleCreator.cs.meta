@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd28df184088c524a99b137ed1799f5d
+timeCreated: 1524752749
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particleSystem: {instanceID: 0}
+  - starCSV: {fileID: 4900000, guid: e5d251ba11ee91e4db41312ff018f30c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
